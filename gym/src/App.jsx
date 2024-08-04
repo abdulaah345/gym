@@ -3,14 +3,14 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './Component/Navbar'
-import Section2 from'./Component/Section2/Section2'
+import Section1 from './Component/Section1/Section1'
 function App() {
 
 
   return (
     <>
     <Navbar/>
-    <Section2/>
+    <Section1/>
     </>
   )
 }

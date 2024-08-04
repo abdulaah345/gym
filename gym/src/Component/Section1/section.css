@@ -1,0 +1,23 @@
+.con1{
+    padding-top: 20%;
+    text-align: center;
+}
+.con1 p{
+    font-size: 72px;
+    color: #283A81;
+    font-weight: bold;
+}
+.con2 {
+    display: flex;
+    gap: 11%;
+    text-align: center;
+    padding-left: 26%;
+    margin-top: 5px;
+    
+}
+.con2 p{
+    font-size: 25px;
+    color: #283A81; 
+    font-weight: bold;
+    
+}
