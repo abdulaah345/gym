@@ -1,28 +1,36 @@
 import React from 'react'
 import logo from './../assets/Group.png'
+import logo1 from './../assets/Group 21.png'
 import './../Component/navbar.css'
 const Navbar = () => {
   return (
    <>
-   <nav className="navbar navbar-expand-lg bg-white">
-  <div className="container-fluid">
+      <div className='container2'>
+        <div className='image'>
+        <img src={logo}/>
+        </div>
+        <div className='cont1'>
+          <ul>
+            <li>
+            <a href='#'>تواصل</a>
+            </li>
+            <li>
+              <a href='#'>البرامج</a>
+            </li>
+            <li>
+            <a href='#'>الرئيسية</a>
+              
+            </li>
+          </ul>
+    
+        </div>
+        <div className='cont2i'> 
+        <img src={logo1}/>
+        </div>
+
+      </div>
   
-  
-      <ul className="navbarss mb-2 mb-lg-0 ">
-        <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#">Features</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" href="#">Pricing</a>
-        </li>
-      </ul>
-      <img src={logo}/>
-    </div>
-  
-</nav>
+    
    </>
   )
 }

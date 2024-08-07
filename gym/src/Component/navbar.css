@@ -1,3 +1,29 @@
-.navbar img{
+/* .navbar img{
     padding-right: 5%;
+} */
+.container2{
+    width: 100%;
+}
+.image img{
+    margin-left: 90%;
+}
+
+.cont1 ul{
+  display: flex;
+  gap: 50px;
+  list-style: none;
+  font-size:30px;
+  margin-top: -5%;
+  margin-left: 40%;
+  font-weight: bold;
+
+ 
+   
+}
+.cont1 a{
+    text-decoration: none;
+    color: #283A81;
+}
+.cont2i{
+    margin-top: -10%;
 }
