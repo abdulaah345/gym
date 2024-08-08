@@ -1,0 +1,38 @@
+.cont4{
+
+        margin-right: 6.5%;
+        margin-left: 56%;
+        direction:rtl;
+        
+                        
+
+}
+.cont4  h2:first-child{
+  font-size: 50px;
+  font-weight: bold;
+  color: #283A81;
+}
+.cont4 h2{
+    color: #4C60AE;
+    font-size: 40px;
+    font-weight: bold;
+}
+.cont4 p{
+    font-size: 32px;
+
+}
+.ss3 button{
+    width: 172px;
+    height: 64px;
+    border-radius: 32px;
+    font-size: 25px;
+    border: none;
+}
+.ss3 button:first-child{
+    margin-left: 5%;
+
+}
+.cont4 img{
+    margin-right: 123%; 
+    margin-top: -90%;
+}

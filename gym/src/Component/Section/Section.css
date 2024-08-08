@@ -26,9 +26,38 @@
 }
 
 .sec2 img{
-    margin-right: 163%;
+    margin-right: 174%;
     margin-top: -86%;
 }
 .phh{
-    margin-top: -50%;
+    margin-top: -28%;
+}
+
+.ss button{
+    width: 172px;
+    height: 64px;
+    border-radius: 32px;
+    font-size: 25px;
+    border: none;
+}
+.ss .bb{
+    position: relative;
+    width: 220px;
+    height: 64px;
+    border-radius: 32px;
+    font-size: 25px;
+    border: none;
+    padding-right: 5%;
+}
+.ss button i{
+
+    position: absolute;
+    left:75%;
+    top: 12%;
+    font-size: 50px;
+}
+
+.ss button:first-child{
+    margin-left: 5%;
+
 }
